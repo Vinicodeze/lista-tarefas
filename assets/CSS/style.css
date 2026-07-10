@@ -52,7 +52,7 @@ main{
     font-family: "Poppins", sans-serif;
     outline: none;
     transition: 0.3s;
-    -webkit-appearance: none;
+    appearance: none;
 }
 
 .input-tarefa:focus {
@@ -73,7 +73,7 @@ main{
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
-    -webkit-appearance: none;
+    appearance: none;
 }
 
 .lista-tarefas{
